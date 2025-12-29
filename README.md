@@ -132,6 +132,27 @@ The app uses CSS variables for theming. Customize colors in `app/globals.css`:
 - **UI Components:** Custom components with class-variance-authority
 - **Icons:** Lucide React
 
+## Screenshots
+
+### Light Mode
+
+**Home Feed**
+![Lyntr UI Homepage](https://github.com/user-attachments/assets/b1e7bfca-a0da-4194-9a3d-7afa5fbf1398)
+
+**Profile Page**
+![Profile Page](https://github.com/user-attachments/assets/06c61423-5d77-4703-bf6c-1a4beb2ff36c)
+
+**Search & Discovery**
+![Search Page](https://github.com/user-attachments/assets/0b03b67b-f239-4ed1-8ad6-0b361f44d36d)
+
+**Notifications**
+![Notifications Page](https://github.com/user-attachments/assets/d0a0d550-729e-4002-ab4b-69f43610e2d7)
+
+### Dark Mode
+
+**Home Feed (Dark)**
+![Dark Mode](https://github.com/user-attachments/assets/7345c5eb-b927-42ad-94cf-db4c28a7219a)
+
 ## Original Project
 
 This UI library is based on the [Lyntr](https://github.com/linuskang/lyntr) micro-blogging platform originally built with SvelteKit.
